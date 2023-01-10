@@ -1,16 +1,19 @@
-# to_do_list
+# Lista de Tarefas
 
-A new Flutter project.
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-## Getting Started
+> Projeto proposto pelo Curso https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
-This project is a starting point for a Flutter application.
+### Ajustes e melhorias
 
-A few resources to get you started if this is your first Flutter project:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [x] Criar List
+- [x] Criar Botoes
+- [x] Separar Lista por dia da semana
+- [ ] Tarefa 4
+- [ ] Tarefa 5
